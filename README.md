@@ -14,16 +14,18 @@ Two dimensional grid of gems.
 * _swap(x, y, direction)_
 * gravity
 * matcher
-* spigot
+* mine
 
 ## Matcher
 
-Determines whether 
+Determines whether a set of gems makes a match
 
 * minimumMatchSize
 * _isMatch(gem[])_
 
-## MineShaft
+## Mineshaft
 
 * _nextGem()_
 
+## Direction
+UP, DOWN, LEFT, RIGHT
