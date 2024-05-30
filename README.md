@@ -1,4 +1,4 @@
-# cupid
+# kartel
 Swapping match game logic in Kotlin
 
 Used for something like a match-3 swaping game, where you swap two gems to make one or two matches.
